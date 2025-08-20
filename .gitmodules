@@ -1,6 +1,6 @@
 [submodule "command_parser"]
 	path = command_parser
-	url = https://github.com/mavirique/command_parser.git
+	url = ../command_parser.git
 [submodule "base64_encode_decode"]
 	path = base64_encode_decode
 	url = https://github.com/mavirique/base64_encode_decode.git
