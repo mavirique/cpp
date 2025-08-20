@@ -1,0 +1,6 @@
+[submodule "command_parser"]
+	path = command_parser
+	url = ./command_parser
+[submodule "base64_encode_decode"]
+	path = base64_encode_decode
+	url = ./base64_encode_decode
